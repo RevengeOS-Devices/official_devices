@@ -1,1 +1,4 @@
-Fix update
+Fixed OTA Updates(Gapps will break on update)
+Upped Inodes for device
+Disabled Priv-APP  permission[temp]
+

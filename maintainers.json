@@ -251,6 +251,15 @@
         "xda_thread": ""
     },
 
+    "davinci":
+    {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Mi 9T (Redmi K20)",
+        "maintainer": "vansh",
+        "telegram": "noobvansh",
+        "xda_thread": ""
+    },
+
     "taimen":
     {
         "brand": "Google",

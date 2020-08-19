@@ -1,2 +1,2 @@
-Address backlight/scsi/thermal related denials
-Misc fixes for device tree
+Boardconfig: sync boot image header with OOS
+devicesettings: updated panel modes

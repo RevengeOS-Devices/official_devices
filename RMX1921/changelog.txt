@@ -1,6 +1,9 @@
-Latest Revenge source.
-Fixed wifi display(Miracast).
-Fixed bt audio by default.
-Kernel upstream with latest caf tag.
-Kernel compiled with clang 11.0.3
-More improvements & smoothness.
+New Fod implementation.(Thanks to @dev_harsh1998)
+Added Raise To Wake Gesture.
+Added Moto Dolby.
+Added LiveDisplay.
+Added Battery Health.
+Fixed FOD Flicker.
+Fixed All known issues.
+More Improvements.
+

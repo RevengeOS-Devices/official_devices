@@ -1,15 +1,9 @@
-Kernel: 4.9.226 pure caf Q tag
-Updated blobs from onc-q
-Moved QMI/Radio/IMS blobs to product
-Updated perf configs from pine-q
-Fixed VoLTE issues on 2nd SIM slot
-Enable zygote pre-forking (faster app launching)
-Re-enabled Hotword detection
-Fixed Fingerprint to wake without lock screen
-Misc. audio i/o improvements
-Fixed few denials
-Enabled IWLAN overlays
-Enabled fast WLAN BSS transition
-Change cpu sets for camera daemon 
-Tune Spectrum profiles
-Misc. Fixes
+Kernel upstreamed to 4.9.232
+Added back Xiaomi-addons
+Cleanup rootdir init scirpts
+Update shell scripts from LA.UM.8.6.2.r1-08100-89xx.0
+Adapt stock thermal thresholds for 4.9
+Fixed offline charging led
+Tune Spectrum profiles to avoid conflicts with OC kernels
+Tune cpusets
+Misc. Fixes and Improvments

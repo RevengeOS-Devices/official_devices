@@ -1,4 +1,11 @@
-!!CLEAN FLASH SUGGESTED!!
-Rebased over xiaomi-sdm660-devs trees
-Upstreamed kernel to 4.4.226 (the kernel name says it all)
-Fixed Dirac audio
+Synced to the latest Revenge OS sources
+Papermoon R5.8 as the default kernel
+Added 24 bit audio (Improved sound quality and raised ADC volume) 
+Improved picture quality
+Added L1 certification
+Added Xiaomi Parts
+Added FPS info to measure the FPS in runtime
+Fixed Safetynet (Device should be certified by default)
+Updated build fingerprint to QQ3A.200805.001 from Coral
+Updated blobs from MIUI v11.0.1.0
+Updated OpenGL-ES-3.2-V@474_Vulkan-1.1.128

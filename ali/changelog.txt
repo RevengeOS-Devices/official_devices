@@ -1,2 +1,5 @@
-Performance enchantments
-Improved data speeds
+Compiled using new tree for a smoother experience
+Fixed Call volume bug
+Fixed Camera bugs
+Fixed various other little bugs
+

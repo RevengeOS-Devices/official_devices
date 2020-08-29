@@ -1,6 +1,6 @@
-Reduce Volume to fix sound distortions
-Add Button to toggle Screen off fod on/off
-Fix Battery Health Section
-Build Trust HAL
-Build Audio HAL from Source
-Added libpfrmgr(More Smoothness)
+Fix dt2w
+Upstream sources
+update blobs
+fix call recording
+Switch to vantom kernel
+fod improvements

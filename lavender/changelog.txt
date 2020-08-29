@@ -1,5 +1,3 @@
-The new volume dialog is back again!
-Changed default kernel to OniiChanKernel-Faham-X-12.0
-Fixed Status Bar extra padding
-Fixed Graphics driver version
-Tried to fix the L1 certification
+Fixed L1 Certification
+Improved Boot time
+Other fixes and improvements

@@ -1,5 +1,4 @@
-Compiled using new tree for a smoother experience
-Fixed Call volume bug
-Fixed Camera bugs
-Fixed various other little bugs
-
+Fixed battery drain
+Fixed fingerprint sensor issues
+Fixed other little issues
+Final Update for Q

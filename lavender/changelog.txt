@@ -1,3 +1,4 @@
-Fixed L1 Certification
-Improved Boot time
-Other fixes and improvements
+Last Android Q Update
+Predator 8.5 as the default Kernel
+Camera bug is fixed
+Updated build fingerprint to latest from Coral (CTS might fail)

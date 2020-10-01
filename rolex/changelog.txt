@@ -1,5 +1,4 @@
-Updated graphics from LA.UM.8.6.r1-04400-89xx
-Switched back to stock finerprint 
-Enabled agps
-Change wallpaper if you encounter UI lags
-Some minor cleanup/improvisations
+switched to full vndk
+updated powerprofile to Q
+cleanedup perf configs
+switched to prebuilt gps

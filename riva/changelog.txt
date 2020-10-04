@@ -1,11 +1,8 @@
-Cleaned up tree
-Switch to Coral FP August
-Dex2oat filter = speed
-Disable VSync for CPU rendered apps
-Compile HWUI for Better Performance
-Force triple frame buffers
-Remove dead RCS packages
-Add AOSP RCS packages
-Add Call recording Overlay
-Update graphics from LA.UM.8.6.r1-04400-89xx
-Change kernel to Mizu EAS
+Enable full VNDK
+Switched to prebuilt gps
+Updated power profile
+Use default fp
+Some minor optimization/cleanup
+Lag on homescreen
+Change wallpaper if you encounter UI lags
+	

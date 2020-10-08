@@ -267,5 +267,14 @@
         "maintainer": "Yomatsun",
         "telegram": "Yomatsun",
         "xda_thread": ""
+    },
+
+    "bretzel":
+    {
+        "brand": "ulefone",
+        "name": "ulefone Armor X5",
+        "maintainer": "jmpfbmx",
+        "telegram": "jmpf_bmx",
+        "xda_thread": "https://forum.xda-developers.com/android/development/rom-revengeos-3-2-ulefone-armor-x5-t4173863"
     }
 }

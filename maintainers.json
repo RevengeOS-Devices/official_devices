@@ -276,5 +276,14 @@
         "maintainer": "jmpfbmx",
         "telegram": "jmpf_bmx",
         "xda_thread": "https://forum.xda-developers.com/android/development/rom-revengeos-3-2-ulefone-armor-x5-t4173863"
+    },
+
+    "RMX1901":
+    {
+        "brand": "Realme",
+        "name": "Realme X",
+        "maintainer": "hypercleric",
+        "telegram": "hypercleric",
+        "xda_thread": ""
     }
 }

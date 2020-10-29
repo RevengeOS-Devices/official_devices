@@ -107,6 +107,14 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-revengeos-3-2-xiaomi-redmi-note-4x-t4095201"
     },
 
+    "ocean":
+    {   "brand": "Motorola",
+        "name": "Moto G7 Power",
+        "maintainer": "Electimon",
+        "telegram": "electimon",
+        "xda_thread": "https://forum.xda-developers.com/g7-power/development/rom-revengeos-4-0-t4183529/"
+    },
+
     "oneplus3":
     {
         "brand": "OnePlus",

@@ -1,13 +1,4 @@
 {
-    "ali":
-    {
-        "brand": "Motorola",
-        "name": "Moto G6",
-        "maintainer": "Electimon",
-        "telegram": "electimon",
-        "xda_thread": "https://forum.xda-developers.com/moto-g6/development/rom-revengeos-moto-g6-t4097553"
-    },
-
     "beryllium":
     {
         "brand": "Poco",

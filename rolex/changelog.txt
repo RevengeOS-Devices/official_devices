@@ -1,4 +1,6 @@
-switched to full vndk
-updated powerprofile to Q
-cleanedup perf configs
-switched to prebuilt gps
+shipping with 4.9 kernel
+compiled with proton clang
+fixed dt2w for goodix users
+fixed poweroff charging led
+updated carrier config 
+updated thermal config

@@ -276,6 +276,16 @@
         "telegram": "Lucchetto_m",
         "xda_thread": "https://forum.xda-developers.com/android/development/android-10-revengeos-3-1-lenovo-z6-pro-t4030703"
     },
+
+    "Miatoll":
+    {
+        "brand": "Xiaomi",
+        "name": "Redmi Note 9S, 9 Pro, 9 Pro Max & Poco M2 Pro Unified",
+        "maintainer": "Reza Bagas Rifaldy",
+        "telegram": "GrettoRosella",
+        "xda_thread": "https://forum.xda-developers.com/redmi-note-9-pro/development/rom-revengeos-redmi-note-9-pro-joyeuse-t4184745"
+    },
+
     "dummy":
     {
         "brand": "dummy",

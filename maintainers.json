@@ -79,6 +79,15 @@
         "telegram": "Introdructor",
         "xda_thread":"https://forum.xda-developers.com/redmi-note-8/development/rom-revengeos-3-0-redmi-note-8-8tginkgo-t4132113"
     },
+    
+    "jasmine_sprout":
+    {
+        "brand": "Xiaomi",
+        "name": "Mi A2",
+        "maintainer": "OdSazib",
+        "telegram": "OdSazib",
+        "xda_thread":"https://forum.xda-developers.com/mi-a2/development/11-0-revengeos-4-0-xiaomi-mi-a2-t4169151"
+    },
 
     "lavender":
     {
@@ -230,6 +239,15 @@
         "maintainer": "Starlight",
         "telegram": "star2834",
         "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/aosp-rom-revengeos-3-0-xiaomi-redmi-t4139767"
+    },
+    
+    "wayne":
+    {
+        "brand": "Xiaomi",
+        "name": "Mi 6X",
+        "maintainer": "OdSazib",
+        "telegram": "OdSazib",
+        "xda_thread":"https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/11-0-revengeos-4-0-xiaomi-mi-6x-wayne-t4169181"
     },
 
     "whyred":

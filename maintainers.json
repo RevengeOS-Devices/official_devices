@@ -302,14 +302,5 @@
         "maintainer": "Reza Bagas Rifaldy",
         "telegram": "GrettoRosella",
         "xda_thread": "https://forum.xda-developers.com/redmi-note-9-pro/development/rom-revengeos-redmi-note-9-pro-joyeuse-t4184745"
-    },
-
-    "dummy":
-    {
-        "brand": "dummy",
-        "name": "dummy",
-        "maintainer": "bruh",
-        "telegram": "lol",
-        "xda_thread": ""
     }
 }

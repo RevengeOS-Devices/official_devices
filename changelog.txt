@@ -1,3 +1,5 @@
+Updated theme app
+November security patches
 New RevengeUI, completely Redesigned
 RevengeLauncher, like Launcher3 but much better and nicer
 Added back many features from 3.x

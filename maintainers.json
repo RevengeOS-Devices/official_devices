@@ -259,6 +259,13 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-revengeos-3-1-xiaomi-redmi-note-5-t4061869"
     },
 
+    "willow":
+    {
+        "brand": "Xiaomi",
+        "name": "Redmi Note 8T",
+        "redirect_to": "ginkgo"
+    },
+
     "X00T":
     {
         "brand": "ASUS",

@@ -126,6 +126,15 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-revengeos-3-0-lavender-t4027781"
     },
 
+    "miatoll":
+    {
+        "brand": "Xiaomi",
+        "name": "Redmi Note 9S, 9 Pro, 9 Pro Max & Poco M2 Pro Unified",
+        "maintainer": "Reza Bagas Rifaldy",
+        "telegram": "GrettoRosella",
+        "xda_thread": "https://forum.xda-developers.com/redmi-note-9-pro/development/rom-revengeos-redmi-note-9-pro-joyeuse-t4184745"
+    },
+
     "mido":
     {
         "brand": "Xiaomi",
@@ -328,14 +337,5 @@
         "maintainer": "Zhenxiang Chen",
         "telegram": "Lucchetto_m",
         "xda_thread": "https://forum.xda-developers.com/android/development/android-10-revengeos-3-1-lenovo-z6-pro-t4030703"
-    },
-
-    "miatoll":
-    {
-        "brand": "Xiaomi",
-        "name": "Redmi Note 9S, 9 Pro, 9 Pro Max & Poco M2 Pro Unified",
-        "maintainer": "Reza Bagas Rifaldy",
-        "telegram": "GrettoRosella",
-        "xda_thread": "https://forum.xda-developers.com/redmi-note-9-pro/development/rom-revengeos-redmi-note-9-pro-joyeuse-t4184745"
     }
 }

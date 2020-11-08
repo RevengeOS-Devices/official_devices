@@ -1,2 +1,1 @@
-Fix inadjustable volume in call
-Fix low mic output
+Fix Night Light not working

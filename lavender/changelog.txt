@@ -1,2 +1,4 @@
-Initial Android R Build
-Predator Stormbreaker X4.0 as the Default Kernel
+Fixed Deep Sleep issue
+Fixed 5.0 GHz Wi-Fi Hotspot no internet connection
+Fixed Quick Settings tiles rows in portrait mode while expanded
+Updated Build fingerprint to Coral's November fingerprint

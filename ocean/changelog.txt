@@ -1,1 +1,2 @@
-Initial Official build!
+Fixed DRM
+Fixed Offline charging

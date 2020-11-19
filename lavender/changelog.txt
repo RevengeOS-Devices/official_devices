@@ -1,7 +1,3 @@
-Kernel upstreamed to Predator Stormbreaker X4.1
-SELinux is still permissive
-Deep Sleep is fixed
-Hotspot is fixed for both 2.4 Ghz and 5 Ghz
-Added support for Livedisplay
-Device is certified by default
-Clean flash is mandatory!
+Nuke Livedisplay
+Hotfix for Device not certified
+SELinux Enforcing

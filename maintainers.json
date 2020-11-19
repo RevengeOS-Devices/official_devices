@@ -346,5 +346,13 @@
         "maintainer": "Giammarco Senatore",
         "telegram": "GiaSen",
         "xda_thread": "https://forum.xda-developers.com/android/development/rom-revengeos-4-0-z6-lite-k10-note-t4190163"
+    },
+    "X01BD":
+    {
+         "brand": "ASUS",
+         "name": "Zenfone Max Pro M2",
+         "maintainer": "Priyanshu Gupta",
+         "telegram": "prigup",
+         "xda_thread": ""
     }
 }

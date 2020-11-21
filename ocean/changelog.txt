@@ -1,2 +1,1 @@
-Fixed DRM
-Fixed Offline charging
+Fix vendor.display.config related crashes (Chrome, Amazon)

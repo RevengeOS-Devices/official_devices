@@ -1,3 +1,5 @@
-Nuke Livedisplay
-Hotfix for Device not certified
-SELinux Enforcing
+Go Permissive!
+Fixed greenish video recording.
+Fixed WFD "Cast."
+Added missing Blur.
+Added LiveDisplay.

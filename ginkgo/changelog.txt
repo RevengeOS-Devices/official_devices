@@ -1,17 +1,12 @@
-Enforcing build.
-Added Livedisplay support.
-Dropped Clear Speaker.
-Dropped XiaomiParts section.
-Dirac moved to the Sound settings.
-Added Thermal in Battery settings.
-Fixed ExFAT SDCard FS.
-Forced camera HAL1 for some apps.
-Boosted audio output.
-Fixed Fingerprint in some apps.
-Enabled Blur under dev-option (Disabled by default).
-Disabled audio compress VOIP.
-Updated CarrierConfig overlay from CAF.
- Updated blobs from MIUI 20.11.11.
-Updated display/graphics/Wfd/QTI Telephony stack to LA.UM.9.11.r1-02100-NICOBAR.0.
-Updated telephony overlay from CAF.
-Some fix and improvements.
+Offline charging bug fixed.
+Switched to quicksilver kernel upstremed to V.209.
+Updated blobs from MIUI 12.0.2
+Added Nov security patch From Redfin.
+Added back XiaomiParts.
+Gcam Hdr Bug fixed.
+Double Tap To Wake fixed.
+Fixed Wifi Display ( screen casting ).
+Shipped GcamGo instead Of Aosp Cam.
+Fixed Whatsapp Web QR code scanning issue.
+Fixed Baseband String duplication in About Phone.
+More improvements and fixes.

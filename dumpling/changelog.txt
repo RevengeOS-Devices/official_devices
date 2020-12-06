@@ -1,0 +1,10 @@
+Initial Build
+Volume panel position changed to left
+Added Oneplus Settings
+Added qcom-caf hals from YAAP
+Updated IMS and Carrier config
+Added Revenge Kernel 2.0
+Made changes to WiFi loading preferences
+Made changes to VoLTE stuff
+F2FS support added
+

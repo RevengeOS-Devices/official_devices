@@ -1,5 +1,4 @@
-Go Permissive!
-Fixed greenish video recording.
-Fixed WFD "Cast."
-Added missing Blur.
-Added LiveDisplay.
+December security patches have been merged
+Fixed WFD "Cast." Thanks to @letsmakecakes
+Improved audio quality
+Clean flash is mandatory

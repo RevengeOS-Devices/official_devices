@@ -1,1 +1,2 @@
-Fix vendor.display.config related crashes (Chrome, Amazon)
+Integrate my AzurElectricR7 custom kernel
+Fix video recording

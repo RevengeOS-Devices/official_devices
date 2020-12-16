@@ -1,4 +1,4 @@
-December security patches have been merged
 Fixed WFD "Cast." Thanks to @letsmakecakes
+Update fingerprint to RQ1A.201205.008 from Coral
 Improved audio quality
-Clean flash is mandatory
+Thanks to all the testers

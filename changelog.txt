@@ -1,10 +1,5 @@
-Heads Up toggle
-Live Display
-Performance improvements
+December Patch
 Minor bug fixes
-Updated theme app
-November security patches
-New RevengeUI, completely Redesigned
-RevengeLauncher, like Launcher3 but much better and nicer
-Added back many features from 3.x
-Weather in lockscreen
+Updated Launcher
+Added QKSMS default messenger
+New Weather Service

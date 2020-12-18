@@ -1,13 +1,14 @@
 {
     "error": false,
-    "donate_url": "https://paypal.me/lucchetto",
+    "donate_url": "https://paypal.me/pratyakshm",
     "website_url": "https://revengeos.com/",
-    "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1604909191.7631645,
-    "filename": "RevengeOS-4.0-R-OFFICIAL-rosy-20201109-0603.zip",
+    "news_url": "https://t.me/PratyakshProjects",
+    "datetime": 1608319377.5831752,
+    "filename": "RevengeOS-4.0-R-OFFICIAL-rosy-20201218-1428.zip",
     "id": "",
-    "size": "635728537",
-    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Frosy%2FRevengeOS-4.0-R-OFFICIAL-rosy-20201109-0603.zip",
+    "size": "639865197",
+    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Frosy%2FRevengeOS-4.0-R-OFFICIAL-rosy-20201218-1428.zip",
+    "download_new": "https://download.revengeos.com/download/rosy",
     "version": "4.0",
-    "filehash": "0e1dd23699134970550239d76868e43f"
+    "filehash": "27ef805bb57bfd84136b256bfb745f30"
 }

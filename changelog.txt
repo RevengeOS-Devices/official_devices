@@ -1,5 +1,6 @@
-December Patch
+December security patch
 Minor bug fixes
-Updated Launcher
-Added QKSMS default messenger
-New Weather Service
+Updated RevengeLaunched
+Added QKSMS as default messaging app
+New Weather service 
+Make Clear All button more accessible

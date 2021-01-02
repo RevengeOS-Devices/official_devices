@@ -3,3 +3,4 @@ Fixed Nfc.
 Rebased kernel on latest CAF tag and upstreamed to v4.14.212
 Fixed Encryption.
 Updated graphics, display and perf blobs to R (LA.UM.9.11.r1-02400-NICOBAR.0).
+Fixed mobile data not working issue .

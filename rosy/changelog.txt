@@ -1,7 +1,1 @@
-Improved battery backup
-Use latest redfin fingerprint
-Enabled LiveDisplay
-Faster boot time
-Fixed hotspot randomly not turning on
-Miscellaneous performance optimization
-
+No significant changes

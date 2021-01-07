@@ -1,14 +1,14 @@
 {
     "error": false,
-    "donate_url": "https://paypal.me/lucchetto",
+    "donate_url": "paypal.me/gianreyes04",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1609079409.0547028,
-    "filename": "RevengeOS-4.0-R-BETA-tissot-20201227-0944.zip",
+    "datetime": 1610004653.4514883,
+    "filename": "RevengeOS-4.0-R-OFFICIAL-tissot-20210107-0628.zip",
     "id": "",
-    "size": "645554416",
-    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Ftissot%2FRevengeOS-4.0-R-BETA-tissot-20201227-0944.zip",
+    "size": "645193042",
+    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Ftissot%2FRevengeOS-4.0-R-OFFICIAL-tissot-20210107-0628.zip",
     "download_new": "https://download.revengeos.com/download/tissot",
     "version": "4.0",
-    "filehash": "519f1c0c5b3ede2d424e1c3fe6ff3eff"
+    "filehash": "43b54d8ec6543718d18123e929873ceb"
 }

@@ -1,14 +1,14 @@
 {
     "error": false,
-    "donate_url": "paypal.me/xSyllaMaintainer",
+    "donate_url": "https://www.paypal.com/paypalme/xSyllaMaintainer",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1609551213.3203118,
-    "filename": "RevengeOS-4.0-R-OFFICIAL-monet-20210101-2209.zip",
+    "datetime": 1610118359.6418998,
+    "filename": "RevengeOS-4.0-R-OFFICIAL-monet-20210108-0151.zip",
     "id": "",
-    "size": "667197012",
-    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Fmonet%2FRevengeOS-4.0-R-OFFICIAL-monet-20210101-2209.zip",
+    "size": "671005070",
+    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Fmonet%2FRevengeOS-4.0-R-OFFICIAL-monet-20210108-0151.zip",
     "download_new": "https://download.revengeos.com/download/monet",
     "version": "4.0",
-    "filehash": "8fb4bf4d3eb078ea7db60420a2dbed65"
+    "filehash": "c18f3f08388c80769b6830a8b444b2dd"
 }

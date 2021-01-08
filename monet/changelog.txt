@@ -1,3 +1,9 @@
-Imported GPS and other modules from MIUI 12.0.2.0
-Changed the default bitrate codec
-FOD Implemented
+Optimized performance
+Fixed status bar icons
+Fixed Bluetooth audio
+Fixed FOD visible while unlocking the phone with pattern after restart
+
+Known issues/bugs:
+Double tap to wake not available yet
+While unlocking with FOD, brightness is at max for a fraction of a second
+No off screen FOD

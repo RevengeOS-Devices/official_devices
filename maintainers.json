@@ -381,5 +381,13 @@
          "maintainer": "Priyanshu Gupta",
          "telegram": "prigup",
          "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-11-0-x01bd-revengeos-4-0-official.4197609"
+    },
+    "begonia": 
+    {
+ 	    "brand": "Xiaomi",
+ 	    "name": "Redmi Note 8 Pro",
+ 	    "maintainer": "NextWorks",
+ 	    "telegram": "NextWorksGFX",
+ 	    "xda_thread": ""
     }
 }

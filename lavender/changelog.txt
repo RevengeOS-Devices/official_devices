@@ -1,5 +1,5 @@
-Fixed WFD "Cast." Thanks to @letsmakecakes
-Upstreamed kernel to Predator Stormbreaker X4.2
-Update fingerprint to RQ1A.201205.008 from Coral
-Improved audio quality
-Thanks to all the testers
+Switched back to AOSP BT stack
+Removed L1 support to fix Netflix crashes
+Updated blobs from LA.UM.8.2.r1-07400-sdm660.0
+Updated fingerprint from Redfin - RQ1A.210105.003
+Enabled VR high perfomance options

@@ -1,2 +1,3 @@
+Include Simple Weather app
 January security patch
 Added Advanced reboot

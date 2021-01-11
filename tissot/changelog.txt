@@ -1,8 +1,4 @@
-Enable Blur by Default
-Added Props to Improve Blur
-Addressed a ton of denials
-Uprev Perf HAL to 2.2
-Fixed Advanced Reboot
-Fixed Long press power button to turn on Torch
-Use dex2oat64
-Kernel Upstream to v4.9.249
+SELinux is now Enforcing
+Revert Soundtrigger to v2.2 (This fixes the Bluetooth Audio problem)
+Update Bluetooth aptX blobs from Crosshatch
+Minor Improvements

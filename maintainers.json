@@ -214,6 +214,15 @@
         "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-revengeos-3-0-tissot-t4018869"
     },
 
+        "toco":
+    {
+        "brand": "Xiaomi",
+        "name": "Mi Note 10 Lite",
+        "maintainer": "AndroidHQ254",
+        "telegram": "DennisMurimiWachira",
+        "xda_thread": ""
+    },
+    
     "tulip":
     {
         "brand": "Xiaomi",

@@ -287,6 +287,15 @@
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-beta-revengeos-v4-0-2020-12-27.4208981/"
     },
 
+    "toco":
+    {
+        "brand": "Xiaomi",
+        "name": "Mi Note 10 Lite",
+        "maintainer": "AndroidHQ254",
+        "telegram": "DennisMurimiWachira",
+        "xda_thread": ""
+    },
+
     "tulip":
     {
         "brand": "Xiaomi",

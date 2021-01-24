@@ -1,3 +1,5 @@
+Burn in protection
+Include Etar (Calendar app) and Simple Gallery Pro
 Include Simple Weather app
 January security patch
 Added Advanced reboot

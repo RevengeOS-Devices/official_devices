@@ -1,3 +1,5 @@
+Network traffic indicator
+Gesture pill width customisation
 Burn in protection
 Include Etar (Calendar app) and Simple Gallery Pro
 Include Simple Weather app

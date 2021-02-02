@@ -1,7 +1,8 @@
+February security patch
+Recents UI improvements
 Network traffic indicator
 Gesture pill width customisation
 Burn in protection
 Include Etar (Calendar app) and Simple Gallery Pro
 Include Simple Weather app
-January security patch
 Added Advanced reboot

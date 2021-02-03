@@ -1,7 +1,6 @@
-Updated Security patch to December.
-Fixed Nfc.
-Rebased kernel on latest CAF tag and upstreamed to v4.14.212
-Fixed Encryption.
-Updated graphics, display and perf blobs to R (LA.UM.9.11.r1-02400-NICOBAR.0).
-fixed Bluetooth issue.
-Fixed mobile data not working issue .
+Updated redfin fp/desc to Feb 2021.
+Tune postboot script for better performance.
+Misc RIL improvements.
+Enabled QC dual wifi interface.
+Reduced shutdown timeout.
+Switched to Snapdragon LLVM for kernel build.

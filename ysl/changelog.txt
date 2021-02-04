@@ -1,8 +1,10 @@
-Merge linux 4.9.241 on kernel
-Update Audio, Media and Permissions configs from LA.UM.9.6.2.r1-02100-89xx.0
-Import qti-telephony-common from cmi
-Switch to Aidl Power Hal
-Fix Hotspot issues
-Fix WFD "cast" 
-Fix Bluetooth audio
-Misc improvement
+CLEAM FLASH NEED!
+Inline with latest StormBreaker kernel
+Switch audio stack back to daisy
+Update DRM blobs from daisy
+Update blobs from LA.UM.9.6.2.r1-03300-89xx.0
+Update bluetooth stack from sunfish
+Lower Gps debug level
+Fix volume slider during call
+Fix encryption
+A bit of clean up 

@@ -1,8 +1,3 @@
-February security patch
-Recents UI improvements
-Network traffic indicator
-Gesture pill width customisation
-Burn in protection
-Include Etar (Calendar app) and Simple Gallery Pro
-Include Simple Weather app
-Added Advanced reboot
+March security patch
+Unlink Notifications and Ringtones volume
+Turn off screen rotation in lock screen

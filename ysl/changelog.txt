@@ -1,10 +1,12 @@
-CLEAM FLASH NEED!
-Inline with latest StormBreaker kernel
-Switch audio stack back to daisy
-Update DRM blobs from daisy
-Update blobs from LA.UM.9.6.2.r1-03300-89xx.0
-Update bluetooth stack from sunfish
-Lower Gps debug level
-Fix volume slider during call
-Fix encryption
-A bit of clean up 
+Switch to OSS Camera HAL
+Switch to enforcing
+Switch to full VNDK
+Merge linux upstream '4.9.262' into kernel
+Merge caf tag 'LA.UM.9.6.2.r1-04100-89xx.0' into kernel
+Update blobs from LA.UM.9.6.2.r1-03600-89xx.0
+Update blobs from daisy V11.0.18.0.QDLMIMX
+Update blobs from tissot V10.0.24.0.PDHMIXM
+Update blobs from ysl V12.0.4.0.PEFCNXM
+Fix WiFi calls
+Fix WiFi-display
+Misc improvments

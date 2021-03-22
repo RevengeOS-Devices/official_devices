@@ -1,6 +1,23 @@
-Updated redfin fp/desc to Feb 2021.
-Tune postboot script for better performance.
-Misc RIL improvements.
-Enabled QC dual wifi interface.
-Reduced shutdown timeout.
-Switched to Snapdragon LLVM for kernel build.
+Included MiuiCamera.
+Updated stock blobs from MIUI 21.3.3.
+Updated CAF blobs from LA.UM.9.11.r1-02800.
+Updated redfin fp to march (fixed safetynet).
+Fixed camera freeze in some apps.
+Fixed camera lens switching delay.
+Fixed voip/mic issues in some apps.
+Added vibration strength control in XP.
+Made notch cutout wider/smoother.
+Switched to new QTI thermal HAL.
+Attempted to fix screen blackouts under sunlight/heat.
+Improved GPS configs.
+Improved rounded corners and fixed hide cutout option.
+Added support for willow hwversion 18.31.0.
+Switched to QuicksilveR v2.5 kernel.
+Fast charging on chinese variants maybe fixed.
+Switched to qcom power hal + perf hal boosting.
+Display dying under heat should be fixed.
+Increase gps batch size for faster fix.
+Switched to pixel offline charger animation.
+Further smoothen notch cutout.
+Added wireguard support.
+Reduced touchscreen, GPU and CPU latency.

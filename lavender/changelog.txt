@@ -1,12 +1,16 @@
-Updated kernel to Predator-Stormbreaker X4.3 - 4.4.252
-Updated Telephony from LA.QSSI.11.0.r1-09400-qssi.0 to fix crashing after hanging up VoLTE-enabled call
-Updated GPS blobs from LA.UM.9.12.r1-09500-SMxx50.0 to improve GPS accuracy
-Updated GPS HAL from LA.UM.9.2.r1-01800-SDMxx0.0 to improve GPS accuracy
-Updated thermal and Widevine blobs from jasmine V11.0.19.0 QDIMIXM
-Migrated to Health 2.1 HAL 
-Changed USB autosusupend delay to 7s in order to fix USB audio device connection issues
-Configured SQLite to operate in MEMORY mode for a nice SQL perfomance boost
-Updated fingerprint from Redfin - RQ1A.210205.004
-Enabled call recording
-Updated OpenGles and Adreno blobs from RP1A.201005.004
-Fixed "Ok Google" Detection
+Switched to Halcyon Kernel v4.3 - 4.4.263
+Updated build fingerprint to RQ2A.210305.006 from Redfin to fix Safetynet
+Switched to Audio hal v4
+Switched to AIDL Powerhal for better battery backup
+Added qrtr blobs
+Rolled back to wayne-thermal to fix performance issues
+Loosen up charging thermal throttling thresholds
+Enabled AOSP surfaceflinger
+Downgrade LA.UM.9.6.2.r1 revision to 03300-89xx.0 to fix WFD "Cast"
+Downgrade GPS blobs and hals to LA.UM.9.6.2.r1-03300-89xx.0 to fix GPS navigation
+Set maximum media record to 60fps
+Allow com.qualcomm.location to run in the background
+Disable clean turn on
+Set vendor.audio.adm.buffering.ms to 3
+Shorten wait time for services exit to optimize shutdown time
+XiaomiParts rebranded to DeviceSettings -> Settings/System

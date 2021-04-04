@@ -177,5 +177,12 @@
         "maintainer": "Zhenxiang Chen",
         "telegram": "Lucchetto_m",
         "xda_thread": "https://forum.xda-developers.com/android/development/android-10-revengeos-3-1-lenovo-z6-pro-t4030703"
+    },
+    "lake": {
+	"brand": "Motorola",
+	"name": "Moto G7 Plus",
+	"maintainer": "Fraaxius",
+	"telegram": "Fraaxius",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-lake-unofficial-revengeos-4-0-03-12-21.4256961"
     }
 }

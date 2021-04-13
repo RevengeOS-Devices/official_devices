@@ -1,1 +1,2 @@
 April security patches
+Network per-app isolation

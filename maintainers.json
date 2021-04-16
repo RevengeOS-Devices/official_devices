@@ -53,13 +53,6 @@
         "telegram": "zorock",
         "xda_thread": "https://forum.xda-developers.com/oneplus-5/oneplus-5--5t-cross-device-development/rom-revenge-os-t4196305"
     },
-    "enchilada": {
-        "brand": "OnePlus",
-        "name": "6",
-        "maintainer": "coderastic",
-        "telegram": "coderastic",
-        "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-revengeos-3-2-t4067011"
-    },
     "excalibur": {
         "brand": "Redmi",
         "name": "Note 9 Pro Max",
@@ -81,6 +74,13 @@
         "brand": "Redmi",
         "name": "Note 9 Pro",
         "redirect_to": "miatoll"
+    },
+    "lake": {
+	"brand": "Motorola",
+	"name": "Moto G7 Plus",
+	"maintainer": "Fraaxius",
+	"telegram": "Fraaxius",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-lake-official-revengeos-4-0-beta.4256961"
     },
     "lavender": {
         "brand": "Xiaomi",
@@ -110,13 +110,6 @@
         "telegram": "szradev",
         "xda_thread": ""
     },
-    "RMX1901": {
-        "brand": "Realme",
-        "name": "X",
-        "maintainer": "hypercleric",
-        "telegram": "hypercleric",
-        "xda_thread": ""
-    },
     "RMX1921": {
         "brand": "Realme",
         "name": "XT",
@@ -137,13 +130,6 @@
         "maintainer": "Pulkit Agarwal",
         "telegram": "Pulkit077",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-aosp-revengeos-4-0-xiaomi-redmi-5-rosy-offical.4167969/"
-    },
-    "santoni": {
-        "brand": "Xiaomi",
-        "name": "Redmi 4/4x",
-        "maintainer": "Arth Doshi",
-        "telegram": "arthdoshi33",
-        "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-revengeos-xiaomi-redmi-44x-t4012853"
     },
     "surya": {
         "brand": "POCO",
@@ -171,13 +157,6 @@
         "name": "Redmi Note 8T",
         "redirect_to": "ginkgo"
     },
-    "x2": {
-        "brand": "LeEco",
-        "name": "Le Max 2",
-        "maintainer": "Zhenxiang Chen",
-        "telegram": "Lucchetto_m",
-        "xda_thread": "https://forum.xda-developers.com/le-max-2/development/10-0-revengeos-3-0-x2-t3967140"
-    },
     "ysl": {
         "brand": "Xiaomi",
         "name": "Redmi S2",
@@ -191,12 +170,5 @@
         "maintainer": "Zhenxiang Chen",
         "telegram": "Lucchetto_m",
         "xda_thread": "https://forum.xda-developers.com/android/development/android-10-revengeos-3-1-lenovo-z6-pro-t4030703"
-    },
-    "lake": {
-	"brand": "Motorola",
-	"name": "Moto G7 Plus",
-	"maintainer": "Fraaxius",
-	"telegram": "Fraaxius",
-	"xda_thread": "https://forum.xda-developers.com/t/rom-11-lake-official-revengeos-4-0-beta.4256961"
     }
 }

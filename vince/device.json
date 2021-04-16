@@ -3,11 +3,13 @@
     "donate_url": "https://paypal.me/lucchetto",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1598039089.4759707,
-    "filename": "RevengeOS-3.2-Q-OFFICIAL-vince-20200821-1709.zip",
+    "datetime": 1618597788.7593572,
+    "filename": "RevengeOS-4.0-R-OFFICIAL-vince-20210416-1624.zip",
     "id": "",
-    "size": "649435171",
-    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Fvince%2FRevengeOS-3.2-Q-OFFICIAL-vince-20200821-1709.zip",
-    "version": "3.2",
-    "filehash": "28eabe967386c44c56acd11d826ee7c5"
+    "size": "772584374",
+    "url": "https://sourceforge.net/projects/revengeos/files/vince/RevengeOS-4.0-R-OFFICIAL-vince-20210416-1624.zip",
+    "download_new": "https://download.revengeos.com/download/vince",
+    "clean_flash": "no",
+    "version": "4.0",
+    "filehash": "3ad782caebfec04ba282dac20e60778e"
 }

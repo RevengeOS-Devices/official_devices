@@ -1,13 +1,7 @@
-Fix AutoBrightness
-Disable AOSP SurfaceFlinger
-Address some more denials
-Import Pixel's PowerHAL
-Add a basic powerhint
-Update perf blobs from Taimen
-Inline with StormBreaker
-Upstream to 4.9.233
-Power Efficient Workqueue
-Drop debugging
-Upstream lz4 from 4.14
-Fix Kcal implementation
-Under the hood optimization for performance
+Update Audio, BT, Radio and almost all other blobs from LA.UM.9.6.2.r1-03600-89xx.0
+Fix FM Crash
+Import DSP, Latency and Voice blobs
+Switch to taimen fp
+Fix green artifacts
+Restore QCOM deep buffer
+Fix USSD codes not working on some operators

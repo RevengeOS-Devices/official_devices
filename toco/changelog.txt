@@ -1,1 +1,6 @@
-April security patch
+Initial OSS R Vendor build
+Inherit ArianK16a's common trees
+Ships VantomKernel 4.14.229
+Fix FOD overlay
+Show 'Turbo charging' instead of 'charging rapidly'
+Fix some derps

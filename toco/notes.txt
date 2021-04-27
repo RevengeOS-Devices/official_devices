@@ -1,4 +1,2 @@
-Requires MIUI 12.1.4.0 as base (Installation will fail if you don't meet this)
-SELinux is permissive for now
-Being a first build, more features will be added gradually
-Rom is stable but report any bugs faced @DennisMurimiWachira
+Requires MIUI 12.1.4.0 as base
+FlameGApps recommended (I tested with the FULL package)

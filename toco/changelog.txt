@@ -1,6 +1,10 @@
-Initial OSS R Vendor build
-Inherit ArianK16a's common trees
-Ships VantomKernel 4.14.229
-Fix FOD overlay
-Show 'Turbo charging' instead of 'charging rapidly'
-Fix some derps
+Enforcing
+Ship upstreamed VantomKernel 4.14.231
+Turn on screen when unplugged
+Add a custom doze package
+Ship onFire's GCam 8.1.101 (Gapps required)
+Fix offline charging
+Default screen timeout to 60s
+Switch to QTI bluetooth stack
+Enable blur
+And more fixups...

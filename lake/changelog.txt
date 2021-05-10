@@ -1,1 +1,5 @@
-Disabled blur for better performance
+Updated blobs from Lake QPWS30.61-21-18-7
+Rebased trees with Lineage changes
+Adjusted rounded corner settings
+Dropped QQS heights and use default settings
+Increase status bar height for notch from last Stock Q

@@ -157,6 +157,13 @@
         "name": "Redmi Note 8T",
         "redirect_to": "ginkgo"
     },
+    "whyred": {
+        "brand": "Xiaomi",
+        "name": "Redmi Note 5 Pro",
+        "maintainer": "Reinazhard",
+        "telegram": "eve_enryu",
+        "xda_thread": ""
+    },
     "ysl": {
         "brand": "Xiaomi",
         "name": "Redmi S2",

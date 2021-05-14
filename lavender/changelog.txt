@@ -3,9 +3,9 @@ Allocated zRAM values dynamically
 Configured dext2oat for pre-optimization
 Disabled TDLS OffChannel
 Enabled support for USB Audio accessories
-Fined Tune zRAM writeback
+Fine Tuned zRAM writeback
 Improved GPS response time
 Localised NTP to improve GPS TTFF
-Switched back to audio HAL v6
+Kernel upstreamed to Predator - Stormbreaker x4.5 - 4.4.266 Switched back to audio HAL v6
+Updated Frames consistently
 Updated WFD and Time blobs from LA.UM.9.2.r1-01800-SDMxx0.0
-Upstreamed Kernel to Predator - Stormbreaker x4.5 - 4.4.266

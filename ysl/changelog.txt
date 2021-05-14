@@ -1,3 +1,6 @@
-Cleanup and address denials
-Build some blobs from source
-Fix Goodix fingerprint input issues
+Adress denials
+Cleanup unused blobs
+Regen thermal config
+Drop Ese-powermanager & IOP blobs stack
+Update Auto Brightness Overlays from stock
+Fix headphone volume buttons in call

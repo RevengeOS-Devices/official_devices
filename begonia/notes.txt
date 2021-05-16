@@ -1,4 +1,2 @@
-NonCFW Build
-Included Firmware Modded Inbuilt
-
-
+NonCFW Build 
+Included inbuilt modified firmware

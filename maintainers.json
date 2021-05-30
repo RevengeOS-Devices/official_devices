@@ -55,13 +55,6 @@
         "telegram": "zorock",
         "xda_thread": "https://forum.xda-developers.com/oneplus-5/oneplus-5--5t-cross-device-development/rom-revenge-os-t4196305"
     },
-    "ginkgo": {
-        "brand": "Xiaomi",
-        "name": "Redmi Note 8",
-        "maintainer": "Introdructor",
-        "telegram": "Introdructor",
-        "xda_thread": "https://forum.xda-developers.com/redmi-note-8/development/rom-revengeos-3-0-redmi-note-8-8tginkgo-t4132113"
-    },
     "lake": {
         "brand": "Motorola",
         "name": "Moto G7 Plus",
@@ -117,11 +110,6 @@
         "maintainer": "Anurag Chorghe",
         "telegram": "starlight5234",
         "xda_thread": "https://forum.xda-developers.com/t/rom-r-beta-revengeos-4-0-xiaomi-redmi-note-5-5-plus-vince-official.4183131/"
-    },
-    "willow": {
-        "brand": "Xiaomi",
-        "name": "Redmi Note 8T",
-        "redirect_to": "ginkgo"
     },
     "whyred": {
         "brand": "Xiaomi",

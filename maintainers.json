@@ -76,6 +76,13 @@
         "telegram": "xSylla",
         "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-11-0-revengeos-4-0-monet-work-in-progress.4208653"
     },
+    "pyxis": {
+        "brand": "Xiaomi",
+        "name": "Mi 9 Lite",
+        "maintainer": "Cristian",
+        "telegram": "crstnn",
+        "xda_thread": ""
+    },
     "raphael": {
         "brand": "Xiaomi",
         "name": "Mi 9T Pro/Redmi K20 Pro",

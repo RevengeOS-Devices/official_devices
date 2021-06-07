@@ -104,6 +104,13 @@
         "telegram": "GrettoRosella",
         "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-11-0-revengeos-poco-x3-nfc-surya-official.4243715"
     },
+    "taimen": {
+    "brand": "Google",
+    "name": "Pixel 2 XL",
+    "maintainer": "RealOkabe",
+    "telegram": "RealOkabe",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-taimen-revengeos-4-0-official.4276847/"
+    },
     "toco": {
         "brand": "Xiaomi",
         "name": "Mi Note 10 Lite",

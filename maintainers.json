@@ -55,6 +55,13 @@
         "telegram": "zorock",
         "xda_thread": "https://forum.xda-developers.com/oneplus-5/oneplus-5--5t-cross-device-development/rom-revenge-os-t4196305"
     },
+    "guacamole": {
+    	"brand": "OnePlus",
+        "name": "OnePlus 7 Pro",
+        "maintainer": "Flawn",
+        "telegram": "@fl4wn",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-guacamole-revengeos-4-0-1-11-2020.4177515/"    
+    },
     "lake": {
         "brand": "Motorola",
         "name": "Moto G7 Plus",

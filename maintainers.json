@@ -104,6 +104,13 @@
         "telegram": "szradev",
         "xda_thread": ""
     },
+    "RMX1971": {
+        "brand": "Realme",
+        "name": "5 Pro",
+        "maintainer": "a1kara",
+        "telegram": "a1kara",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-revengeos-4-0-realme-5-pro-rmx1971-official.4295377/"
+    },
     "RMX2001": {
         "brand": "Realme",
         "name": "Realme 6(G90T series)",

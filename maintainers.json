@@ -104,6 +104,13 @@
         "telegram": "szradev",
         "xda_thread": ""
     },
+    "RMX2001": {
+        "brand": "Realme",
+        "name": "Realme 6(G90T series)",
+        "maintainer": "nero",
+        "telegram": "bx2_nero",
+        "xda_thread": ""
+    },
     "rosy": {
         "brand": "Xiaomi",
         "name": "Redmi 5",

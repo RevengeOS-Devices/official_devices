@@ -55,6 +55,13 @@
         "telegram": "zorock",
         "xda_thread": "https://forum.xda-developers.com/oneplus-5/oneplus-5--5t-cross-device-development/rom-revenge-os-t4196305"
     },
+    "daisy": {
+        "brand": "Xiaomi",
+        "name": "Mi A2 Lite",
+        "maintainer": "Proxer05",
+        "telegram": "proxer05",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-aosp-revengeos-4-0-xiaomi-mi-a2-lite-daisy-official.4295271"
+    },
     "guacamole": {
     	"brand": "OnePlus",
         "name": "OnePlus 7 Pro",

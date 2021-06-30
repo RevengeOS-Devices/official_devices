@@ -69,6 +69,13 @@
         "telegram": "@fl4wn",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-guacamole-revengeos-4-0-1-11-2020.4177515/"    
     },
+    "kebab": {
+        "brand": "OnePlus",
+        "name": "8T",
+        "maintainer": "Jose",
+        "telegram": "@jmpf_bmx",
+        "xda_thread": ""
+    },
     "lake": {
         "brand": "Motorola",
         "name": "Moto G7 Plus",

@@ -1,4 +1,18 @@
 {
+    "bardock": {
+        "brand": "bq",
+        "name": "Aquaris X",
+        "maintainer": "jmpfbmx",
+        "telegram": "jmpf_bmx",
+        "xda_thread": ""
+    },
+    "bardockpro": {
+        "brand": "bq",
+        "name": "Aquaris X Pro",
+        "maintainer": "jmpfbmx",
+        "telegram": "jmpf_bmx",
+        "xda_thread": ""
+    },
     "beryllium": {
         "brand": "Poco",
         "name": "F1",

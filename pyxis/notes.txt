@@ -1,1 +1,2 @@
-First release
+Dirty flash possible!
+Requires MIUI CN V12.5.1.0 or V12.5.3.0 firmware

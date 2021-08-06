@@ -1,2 +1,4 @@
-fixed brightness not being controllable
-switched to VantomBE kernel
+August sec patches
+Switched to vantomKernel
+Fixed DT2W not working on latest kernels
+Reverted Libperfmgr

@@ -1,9 +1,5 @@
-July Security Patch
+August Security Patch
 Source Upstream
-Added Performance Profile
-Fixed CTS fail (Now SafetyNet passes out of the box)
-Fixed ScreenRecorder
-Fixed Battery Health
-Updated Gcam-Go
-Updated Device Build FP to redfin July
-Improved App-launch time and other improvements.
+Enabled Call Recording
+Added Realme Dirac
+Updated Device FP to Redfin August

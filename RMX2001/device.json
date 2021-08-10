@@ -3,13 +3,13 @@
     "donate_url": "https://paypal.me/lucchetto",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1626451827.8874898,
-    "filename": "RevengeOS-4.1-R-OFFICIAL-RMX2001-20210716-0442.zip",
+    "datetime": 1628579459.781181,
+    "filename": "RevengeOS-4.1-R-OFFICIAL-RMX2001-20210810-0548.zip",
     "id": "",
-    "size": "709079526",
-    "url": "https://sourceforge.net/projects/revengeos/files/RMX2001/RevengeOS-4.1-R-OFFICIAL-RMX2001-20210716-0442.zip",
+    "size": "710395159",
+    "url": "https://sourceforge.net/projects/revengeos/files/RMX2001/RevengeOS-4.1-R-OFFICIAL-RMX2001-20210810-0548.zip",
     "download_new": "https://download.revengeos.com/download/RMX2001",
-    "clean_flash": "yes",
+    "clean_flash": "no",
     "version": "4.1",
-    "filehash": "d4d2b75f24ad5da296c20f03e3935a18"
+    "filehash": "bfde1b56513dc5778680a96f7ef92633"
 }

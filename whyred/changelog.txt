@@ -1,5 +1,4 @@
-Initial 4.19 Official build
-Fixed WFD
-Enforcing SElinux
-Use pixel AIDL powerhal
-July redfin fp
+Back to 4.4 to fix performance regression
+Create dummy libqti-perfd-client
+Mirror IRQ tuning from Razer Phone 2
+set CPU Variant to cortex-a73

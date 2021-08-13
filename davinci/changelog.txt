@@ -1,4 +1,1 @@
-August sec patches
-Switched to vantomKernel
-Fixed DT2W not working on latest kernels
-Reverted Libperfmgr
+fixed launcher blur

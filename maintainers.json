@@ -1,13 +1,13 @@
 {
     "bardock": {
-        "brand": "bq",
+        "brand": "BQ",
         "name": "Aquaris X",
         "maintainer": "jmpfbmx",
         "telegram": "jmpf_bmx",
         "xda_thread": "https://forum.xda-developers.com/t/rom-official-revengeos-4-1-for-bq-aquaris-x-and-x-pro-aka-bardock-bardockpro.4319843/"
     },
     "bardockpro": {
-        "brand": "bq",
+        "brand": "BQ",
         "name": "Aquaris X Pro",
         "maintainer": "jmpfbmx",
         "telegram": "jmpf_bmx",
@@ -15,7 +15,7 @@
     },
     "beryllium": {
         "brand": "POCO",
-        "name": "POCO F1",
+        "name": "F1",
         "maintainer": "ThunderkeX",
         "telegram": "ThunderkeXxX",
         "xda_thread": "https://forum.xda-developers.com/t/rom-stable-11-0-0_r38-revengeos-4-0-for-beryllium-poco-f1-official.4273729"
@@ -43,7 +43,7 @@
     },
     "cheeseburger": {
         "brand": "OnePlus",
-        "name": "OnePlus 5",
+        "name": "5",
         "maintainer": "Karthik N",
         "telegram": "zorock",
         "xda_thread": "https://forum.xda-developers.com/oneplus-5/oneplus-5--5t-cross-device-development/rom-revenge-os-t4196305"
@@ -57,7 +57,7 @@
     },
     "dumpling": {
         "brand": "OnePlus",
-        "name": "OnePlus 5T",
+        "name": "5T",
         "maintainer": "Karthik N",
         "telegram": "zorock",
         "xda_thread": "https://forum.xda-developers.com/oneplus-5/oneplus-5--5t-cross-device-development/rom-revenge-os-t4196305"
@@ -71,14 +71,14 @@
     },
     "guacamole": {
     	"brand": "OnePlus",
-        "name": "OnePlus 7 Pro",
+        "name": "7 Pro",
         "maintainer": "Flawn",
         "telegram": "@fl4wn",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-guacamole-revengeos-4-0-1-11-2020.4177515/"    
     },
     "kebab": {
         "brand": "OnePlus",
-        "name": "OnePlus 8T",
+        "name": "8T",
         "maintainer": "Jose",
         "telegram": "jmpf_bmx",
         "xda_thread": ""
@@ -113,14 +113,14 @@
     },
     "RMX1971": {
         "brand": "Realme",
-        "name": "Realme 5 Pro",
+        "name": "5 Pro",
         "maintainer": "a1kara",
         "telegram": "a1kara",
         "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-revengeos-4-0-realme-5-pro-rmx1971-official.4295377/"
     },
     "RMX2001": {
         "brand": "Realme",
-        "name": "Realme 6 (G90T series)",
+        "name": "6 (G90T series)",
         "maintainer": "nero",
         "telegram": "bx2nero",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-rmx2001-revengeos-4-1-r-16-7-2021.4281335/"
@@ -176,7 +176,7 @@
     },
     "zippo": {
         "brand": "Lenovo",
-        "name": "Lenovo Z6 Pro",
+        "name": "Z6 Pro",
         "maintainer": "Zhenxiang Chen",
         "telegram": "pasta_con_tonno",
         "xda_thread": "https://forum.xda-developers.com/android/development/android-10-revengeos-3-1-lenovo-z6-pro-t4030703"

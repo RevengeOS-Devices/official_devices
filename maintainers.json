@@ -14,8 +14,8 @@
         "xda_thread": "https://forum.xda-developers.com/t/rom-official-revengeos-4-1-for-bq-aquaris-x-and-x-pro-aka-bardock-bardockpro.4319843/"
     },
     "beryllium": {
-        "brand": "Poco",
-        "name": "F1",
+        "brand": "POCO",
+        "name": "POCO F1",
         "maintainer": "ThunderkeX",
         "telegram": "ThunderkeXxX",
         "xda_thread": "https://forum.xda-developers.com/t/rom-stable-11-0-0_r38-revengeos-4-0-for-beryllium-poco-f1-official.4273729"
@@ -43,7 +43,7 @@
     },
     "cheeseburger": {
         "brand": "OnePlus",
-        "name": "5",
+        "name": "OnePlus 5",
         "maintainer": "Karthik N",
         "telegram": "zorock",
         "xda_thread": "https://forum.xda-developers.com/oneplus-5/oneplus-5--5t-cross-device-development/rom-revenge-os-t4196305"
@@ -57,7 +57,7 @@
     },
     "dumpling": {
         "brand": "OnePlus",
-        "name": "5T",
+        "name": "OnePlus 5T",
         "maintainer": "Karthik N",
         "telegram": "zorock",
         "xda_thread": "https://forum.xda-developers.com/oneplus-5/oneplus-5--5t-cross-device-development/rom-revenge-os-t4196305"
@@ -78,7 +78,7 @@
     },
     "kebab": {
         "brand": "OnePlus",
-        "name": "8T",
+        "name": "OnePlus 8T",
         "maintainer": "Jose",
         "telegram": "jmpf_bmx",
         "xda_thread": ""
@@ -113,14 +113,14 @@
     },
     "RMX1971": {
         "brand": "Realme",
-        "name": "5 Pro",
+        "name": "Realme 5 Pro",
         "maintainer": "a1kara",
         "telegram": "a1kara",
         "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-revengeos-4-0-realme-5-pro-rmx1971-official.4295377/"
     },
     "RMX2001": {
         "brand": "Realme",
-        "name": "6 (G90T series)",
+        "name": "Realme 6 (G90T series)",
         "maintainer": "nero",
         "telegram": "bx2nero",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-rmx2001-revengeos-4-1-r-16-7-2021.4281335/"
@@ -134,7 +134,7 @@
     },
     "surya": {
         "brand": "POCO",
-        "name": "Poco X3 NFC",
+        "name": "POCO X3 NFC",
         "maintainer": "Reza Bagas Rifaldy",
         "telegram": "GrettoRosella",
         "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-11-0-revengeos-poco-x3-nfc-surya-official.4243715"
@@ -176,7 +176,7 @@
     },
     "zippo": {
         "brand": "Lenovo",
-        "name": "Z6 Pro",
+        "name": "Lenovo Z6 Pro",
         "maintainer": "Zhenxiang Chen",
         "telegram": "pasta_con_tonno",
         "xda_thread": "https://forum.xda-developers.com/android/development/android-10-revengeos-3-1-lenovo-z6-pro-t4030703"

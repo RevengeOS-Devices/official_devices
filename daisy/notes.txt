@@ -1,0 +1,2 @@
+- Dirty flash possible!
+- File-Based Encryption enabled by default

@@ -180,5 +180,12 @@
         "maintainer": "Zhenxiang Chen",
         "telegram": "pasta_con_tonno",
         "xda_thread": "https://forum.xda-developers.com/android/development/android-10-revengeos-3-1-lenovo-z6-pro-t4030703"
+    },
+	"X01BD": {
+        "brand": "Asus",
+        "name": "Max Pro M2",
+        "maintainer": "Puneet Gautam",
+        "telegram": "jartinup",
+        "xda_thread": "https://forum.xda-developers.com/t/unofficial-revenge-os-4-1r-vanilla-android-11-asus-max-pro-m2-x01bd.4324017/"
     }
 }

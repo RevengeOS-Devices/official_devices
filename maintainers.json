@@ -187,5 +187,12 @@
         "maintainer": "Puneet Gautam",
         "telegram": "jartinup",
         "xda_thread": "https://forum.xda-developers.com/t/unofficial-revenge-os-4-1r-vanilla-android-11-asus-max-pro-m2-x01bd.4324017/"
+    },
+    "olives": {
+        "brand": "Xiaomi",
+        "name": "Redmi 8 Series",
+        "maintainer": "Chuck",
+        "telegram": "ChuckDXD",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-olives-unofficial-revengeos-4-1-for-redmi-8-8a-8a-dual-23-08-21.4322947/"
     }
 }

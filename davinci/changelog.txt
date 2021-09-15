@@ -1,1 +1,7 @@
-fixed launcher blur
+september patches
+updated redfin fp to september
+fixed ok google detection
+fixed netflix issues
+fixed padding of status bar too
+updated vantomKernel
+media playback is more optimised now

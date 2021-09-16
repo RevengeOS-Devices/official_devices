@@ -1,8 +1,9 @@
-August Security Patch
-Upstream kernel to v4.9.279
-Update Redfin's fingerprint to August
-Fixed aptX HD audio
-Fixed VOOC not shown on lockscreen
-Switch to Pixel libperfmgr AIDL PowerHAL
-Enable VoLTE support for Indonesia carriers
-Other improvements and Misc changes
+September security patch
+Update Redfin's fingerprint to September
+Fixed 2% battery drop
+Mirror IRQ tuning from Razer Phone 2
+Increase CPU boost duration to 140ms
+Enable Rich-Communication Services
+Disable SDM rotator downscaler
+Handle dalvik props based on total RAM
+Other improvements and misc changes

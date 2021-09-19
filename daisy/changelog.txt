@@ -1,10 +1,5 @@
-- August security patch
-- Updated build fingerprint to Coral (Pixel 4a) August
-- Updated display, media blobs to LA.UM.9.6.2.r1-03600-89xx
-- Switched CAF WFD blobs from LA.UM.9.6.2.r1-03300-89xx
-- Switch source media, audio and display HALs to R
-- Fixed an issue with DT2W on fts_ts touchscreen panels (DT2W couldn't be turned off)
-- Switched to OSS Camera HAL for snappier camera operation (Credits to @anorton and @GiovanniRN5)
-- Added the Camera HAL switch (Selecting HAL3 will enable Camera2API while HAL1 will disable it)
-- Some kernel side changes
-- General system stability improvements to enhance the user experience
+- Merged September security patch
+- Switched to R Audio HAL
+- Fixed Dirac and added Mi Sound Enhancer
+- Added back option to enable blur
+- Misc changes and improvements

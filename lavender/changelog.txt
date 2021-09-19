@@ -1,14 +1,4 @@
-kernel: 4.19.202-HALCYON-v7.3
-lavender: Update Wifi from LA.UM.8.2.1.r1-05600-sdm660
-lavender: Update sensor from LA.UM.8.2.1.r1-05600-sdm660
-lavender: Temporarily nuke liboemcrypto, Widevine L3
-lavender: Fixed GoogleCamera HDR+ Enhanced crash
-sdm660-common: Introduce kernelspace battery saver
-sdm660-common: Switch back to exfat
-sdm660-common: Disable sdm rotator downscaler
-sdm660-common: Update fingerprint to Redfin - RQ3A.210805.001.A1
-sdm660-common: Address many denials
-sdm660-common: Update fstab flags from CAF, File-Based Encryption (FBE)
-sdm660-common: Flatten APEXes if updatable APEX is not present
-sdm660-common: DeviceSettings: Update notification LED path for K4.19
-sdm660-common: DeviceSettings: Add earpiece gain
+kernel: Predator-Stormbreaker-v1.8
+lavender: drop commonized libhdcpsrm.so
+sdm660-common: Update fingerprint to Redfin RQ3A.210905.001
+

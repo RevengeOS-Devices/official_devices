@@ -3,13 +3,13 @@
     "donate_url": "https://www.paypal.me/ahq254",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1629060944.6977108,
-    "filename": "RevengeOS-4.1-R-OFFICIAL-toco-20210814-1414.zip",
+    "datetime": 1632098423.7206078,
+    "filename": "RevengeOS-4.1-R-OFFICIAL-toco-20210919-2157.zip",
     "id": "",
-    "size": "983039482",
-    "url": "https://sourceforge.net/projects/revengeos/files/toco/RevengeOS-4.1-R-OFFICIAL-toco-20210814-1414.zip",
+    "size": "983353007",
+    "url": "https://sourceforge.net/projects/revengeos/files/toco/RevengeOS-4.1-R-OFFICIAL-toco-20210919-2157.zip",
     "download_new": "https://download.revengeos.com/download/toco",
-    "clean_flash": "no",
+    "clean_flash": "yes",
     "version": "4.1",
-    "filehash": "a9a43025227837874c95c5d3a5befb36"
+    "filehash": "4b3a5f820ede746b961c2462d572aedf"
 }

@@ -1,3 +1,7 @@
-Bump to August security patch
-Ship new doze VantomKernel
-Tune ZRAM performance
+Bump to September security patch
+Update required firmware level
+Ship VantomKernel 4.14.246
+Address some denial
+Update common vendor blobs from sweet V12.5.6.0.RKFMIXM
+Update toco vendor blobs from MIUI 12.5.2.0
+Build kernel with proton clang

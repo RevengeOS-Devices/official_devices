@@ -187,5 +187,33 @@
         "maintainer": "Puneet Gautam",
         "telegram": "jartinup",
         "xda_thread": "https://forum.xda-developers.com/t/unofficial-revenge-os-4-1r-vanilla-android-11-asus-max-pro-m2-x01bd.4324017/"
+    },
+    "pine": {
+        "brand": "Xiaomi",
+        "name": "Redmi 7A",
+        "maintainer": "0xCAFEBABE",
+        "telegram": "me_cafebabe",
+        "xda_thread": ""
+    },
+    "olives": {
+        "brand": "Xiaomi",
+        "name": "Redmi 8 Series",
+        "maintainer": "0xCAFEBABE, ChuckDXD",
+        "telegram": "me_cafebabe, ChuckDXD",
+        "xda_thread": ""
+    },
+    "rova": {
+        "brand": "Xiaomi",
+        "name": "Redmi 4A / 5A",
+        "maintainer": "0xCAFEBABE",
+        "telegram": "me_cafebabe",
+        "xda_thread": ""
+    },
+    "tiare": {
+        "brand": "Xiaomi",
+        "name": "Redmi Go",
+        "maintainer": "0xCAFEBABE",
+        "telegram": "me_cafebabe",
+        "xda_thread": ""
     }
 }

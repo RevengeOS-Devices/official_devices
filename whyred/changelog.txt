@@ -1,4 +1,6 @@
-Back to 4.4 to fix performance regression
-Create dummy libqti-perfd-client
-Mirror IRQ tuning from Razer Phone 2
-set CPU Variant to cortex-a73
+Rebased device tree to latest lineage
+Switch to AOSP WFD
+Dex2oat optimization
+Switch to LED AIDL qti vibrator
+Switch to SnapCamera
+Some update on kernel

@@ -1,7 +1,2 @@
-september patches
-updated redfin fp to september
-fixed ok google detection
-fixed netflix issues
-fixed padding of status bar too
-updated vantomKernel
-media playback is more optimised now
+Fixed Stereo Audio from bottom firing device speaker
+Fixed popup camera sounds

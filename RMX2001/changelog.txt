@@ -1,5 +1,6 @@
-August Security Patch
-Source Upstream
-Enabled Call Recording
-Added Realme Dirac
-Updated Device FP to Redfin August
+September Security Patch.
+Updated Device FP to redfin September.
+Improved Memory management.
+Improved Zram.
+Improved status bar padding.
+

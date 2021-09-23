@@ -3,13 +3,13 @@
     "donate_url": "https://paypal.me/lucchetto",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1629147834.4054012,
-    "filename": "RevengeOS-4.1-R-OFFICIAL-pyxis-20210815-1731.zip",
+    "datetime": 1632430308.3156872,
+    "filename": "RevengeOS-4.1-R-OFFICIAL-pyxis-20210923-1917.zip",
     "id": "",
-    "size": "1060436780",
-    "url": "https://sourceforge.net/projects/revengeos/files/pyxis/RevengeOS-4.1-R-OFFICIAL-pyxis-20210815-1731.zip",
+    "size": "1064675286",
+    "url": "https://sourceforge.net/projects/revengeos/files/pyxis/RevengeOS-4.1-R-OFFICIAL-pyxis-20210923-1917.zip",
     "download_new": "https://download.revengeos.com/download/pyxis",
-    "clean_flash": "no",
+    "clean_flash": "yes",
     "version": "4.1",
-    "filehash": "dc168171c174b94e79f4074186d0a274"
+    "filehash": "b9408b4d0e8b763ff06de5a70fb3d78e"
 }

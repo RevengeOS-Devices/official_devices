@@ -1,2 +1,4 @@
-August Security Patch
-Update Redfin's fingerprint to August
+September Security Patch.
+Updated Device FP to redfin September.
+Improved status bar corner padding.
+Small updates and clean-ups in device tree & kernel.

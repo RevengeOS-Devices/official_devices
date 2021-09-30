@@ -1,2 +1,3 @@
-Fix broken mic in some apps
-Some under-the-hood changes
+Rebased on new trees, check notes
+Kernel upstreamed to 4.14.244
+September Security Patches

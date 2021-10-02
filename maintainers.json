@@ -153,6 +153,13 @@
         "telegram": "DennisMurimiWachira",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-toco-official-revengeos-4-0.4214643/"
     },
+    "vayu": {
+        "brand": "POCO",
+        "name": "X3 Pro",
+        "maintainer": "dawndegriffin",
+        "telegram": "dawndegriffin",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-official-revengeos-4-1-vayu-bhima.4342297/"
+    },
      "walleye": {
         "brand": "Google",
         "name": "Pixel 2",

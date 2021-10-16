@@ -1,4 +1,3 @@
-kernel: Predator-Stormbreaker-v1.8
-lavender: drop commonized libhdcpsrm.so
-sdm660-common: Update fingerprint to Redfin RQ3A.210905.001
-
+October security patch
+Minor bug fixes
+Under the hood improvements

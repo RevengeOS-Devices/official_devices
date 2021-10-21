@@ -209,9 +209,9 @@
         "telegram": "me_cafebabe, ChuckDXD",
         "xda_thread": ""
     },
-    "rova": {
+    "landtoni": {
         "brand": "Xiaomi",
-        "name": "Redmi 4A / 5A",
+        "name": "Redmi 3S / 3X / 4X",
         "maintainer": "0xCAFEBABE",
         "telegram": "me_cafebabe",
         "xda_thread": ""
@@ -219,6 +219,13 @@
     "tiare": {
         "brand": "Xiaomi",
         "name": "Redmi Go",
+        "maintainer": "0xCAFEBABE",
+        "telegram": "me_cafebabe",
+        "xda_thread": ""
+    },
+    "ulova": {
+        "brand": "Xiaomi",
+        "name": "Redmi 4A / 5A / Note 5A / Y1",
         "maintainer": "0xCAFEBABE",
         "telegram": "me_cafebabe",
         "xda_thread": ""

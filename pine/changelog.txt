@@ -1,1 +1,2 @@
-Initial official build
+Minor changes on the device tree.
+Updated build fingerprint to redfin RQ3A.211001.001.

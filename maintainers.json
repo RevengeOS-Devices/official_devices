@@ -3,70 +3,70 @@
         "brand": "BQ",
         "name": "Aquaris X",
         "maintainer": "jmpfbmx",
-        "telegram": "jmpf_bmx",
+        "telegram": "@jmpf_bmx",
         "xda_thread": "https://forum.xda-developers.com/t/rom-official-revengeos-4-1-for-bq-aquaris-x-and-x-pro-aka-bardock-bardockpro.4319843/"
     },
     "bardockpro": {
         "brand": "BQ",
         "name": "Aquaris X Pro",
         "maintainer": "jmpfbmx",
-        "telegram": "jmpf_bmx",
+        "telegram": "@jmpf_bmx",
         "xda_thread": "https://forum.xda-developers.com/t/rom-official-revengeos-4-1-for-bq-aquaris-x-and-x-pro-aka-bardock-bardockpro.4319843/"
     },
     "beryllium": {
         "brand": "POCO",
         "name": "F1",
         "maintainer": "ThunderkeX",
-        "telegram": "ThunderkeXxX",
+        "telegram": "@ThunderkeXxX",
         "xda_thread": "https://forum.xda-developers.com/t/rom-stable-11-0-0_r38-revengeos-4-0-for-beryllium-poco-f1-official.4273729"
     },
     "begonia": {
         "brand": "Xiaomi",
         "name": "Redmi Note 8 Pro",
         "maintainer": "NextWorks",
-        "telegram": "NextWorksGFX",
+        "telegram": "@NextWorksGFX",
         "xda_thread": "https://forum.xda-developers.com/t/rom-non-cfw-11-0-official-revengeos-v4-0.4215617/"
     },
     "bretzel": {
         "brand": "Ulefone",
         "name": "Armor X5",
         "maintainer": "jmpfbmx",
-        "telegram": "jmpf_bmx",
+        "telegram": "@jmpf_bmx",
         "xda_thread": "https://forum.xda-developers.com/t/rom-official-revengeos-4-0-for-ulefone-armor-x5-aka-bretzel.4261331"
     },
     "cepheus": {
         "brand": "Xiaomi",
         "name": "Mi 9",
         "maintainer": "Giovix92",
-        "telegram": "Giovix92",
+        "telegram": "@Giovix92",
         "xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-revengeos-4-0-mi-9-cepheus-t4173859"
     },
     "cheeseburger": {
         "brand": "OnePlus",
         "name": "5",
         "maintainer": "Karthik N",
-        "telegram": "zorock",
+        "telegram": "@zorock",
         "xda_thread": "https://forum.xda-developers.com/oneplus-5/oneplus-5--5t-cross-device-development/rom-revenge-os-t4196305"
     },
     "davinci": {
         "brand": "Xiaomi",
         "name": "Mi 9T (Redmi K20)",
         "maintainer": "vansh",
-        "telegram": "noobvansh",
+        "telegram": "@noobvansh",
         "xda_thread": ""
     },
     "dumpling": {
         "brand": "OnePlus",
         "name": "5T",
         "maintainer": "Karthik N",
-        "telegram": "zorock",
+        "telegram": "@zorock",
         "xda_thread": "https://forum.xda-developers.com/oneplus-5/oneplus-5--5t-cross-device-development/rom-revenge-os-t4196305"
     },
     "daisy": {
         "brand": "Xiaomi",
         "name": "Mi A2 Lite",
         "maintainer": "Proxer05",
-        "telegram": "proxer05",
+        "telegram": "@proxer05",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-aosp-revengeos-4-0-xiaomi-mi-a2-lite-daisy-official.4291095"
     },
     "guacamole": {
@@ -80,154 +80,147 @@
         "brand": "OnePlus",
         "name": "8T",
         "maintainer": "Jose",
-        "telegram": "jmpf_bmx",
+        "telegram": "@jmpf_bmx",
         "xda_thread": ""
     },
     "lake": {
         "brand": "Motorola",
         "name": "Moto G7 Plus",
         "maintainer": "Fraaxius and Deivid Ignacio",
-        "telegram": "Fraaxius, @Deivid_21",
+        "telegram": "@Fraaxius, @Deivid_21",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-lake-official-revengeos-4-0-beta.4256961"
+    },
+    "landtoni": {
+        "brand": "Xiaomi",
+        "name": "Redmi 3S / 3X / 4X",
+        "maintainer": "0xCAFEBABE",
+        "telegram": "@me_cafebabe",
+        "xda_thread": ""
     },
     "lavender": {
         "brand": "Xiaomi",
         "name": "Redmi Note 7",
         "maintainer": "Raiyan Shishir",
-        "telegram": "raiyanshishir",
+        "telegram": "@raiyanshishir",
         "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-revengeos-4-0-xiaomi-redmi-note-7-t4194405"
     },
     "monet": {
         "brand": "Xiaomi",
         "name": "Mi 10 Lite 5G",
         "maintainer": "xSylla",
-        "telegram": "xSylla",
+        "telegram": "@xSylla",
         "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-11-0-revengeos-4-0-monet-work-in-progress.4208653"
+    },
+    "olives": {
+        "brand": "Xiaomi",
+        "name": "Redmi 8 Series",
+        "maintainer": "0xCAFEBABE, ChuckDXD",
+        "telegram": "@me_cafebabe, @ChuckDXD",
+        "xda_thread": ""
+    },
+    "pine": {
+        "brand": "Xiaomi",
+        "name": "Redmi 7A",
+        "maintainer": "0xCAFEBABE",
+        "telegram": "@me_cafebabe",
+        "xda_thread": ""
     },
     "pyxis": {
         "brand": "Xiaomi",
         "name": "Mi 9 Lite",
         "maintainer": "Cristian",
-        "telegram": "crstnn",
+        "telegram": "@crstnn",
         "xda_thread": ""
     },
     "RMX1971": {
         "brand": "Realme",
         "name": "5 Pro",
         "maintainer": "a1kara",
-        "telegram": "a1kara",
+        "telegram": "@a1kara",
         "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-revengeos-4-0-realme-5-pro-rmx1971-official.4295377/"
     },
     "RMX2001": {
         "brand": "Realme",
         "name": "6 (G90T series)",
         "maintainer": "nero",
-        "telegram": "bx2nero",
+        "telegram": "@bx2nero",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-rmx2001-revengeos-4-1-r-16-7-2021.4281335/"
     },
     "rosy": {
         "brand": "Xiaomi",
         "name": "Redmi 5",
         "maintainer": "Pulkit Agarwal",
-        "telegram": "Pulkit077",
+        "telegram": "@Pulkit077",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-aosp-revengeos-4-0-xiaomi-redmi-5-rosy-offical.4167969/"
     },
     "surya": {
         "brand": "POCO",
         "name": "POCO X3 NFC",
         "maintainer": "Reza Bagas Rifaldy",
-        "telegram": "GrettoRosella",
+        "telegram": "@GrettoRosella",
         "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-11-0-revengeos-poco-x3-nfc-surya-official.4243715"
     },
     "taimen": {
         "brand": "Google",
         "name": "Pixel 2 XL",
         "maintainer": "RealOkabe",
-        "telegram": "RealOkabe",
+        "telegram": "@RealOkabe",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-taimen-walleye-revengeos-4-0-official.4276847/"
+    },
+    "tiare": {
+        "brand": "Xiaomi",
+        "name": "Redmi Go",
+        "maintainer": "0xCAFEBABE",
+        "telegram": "@me_cafebabe",
+        "xda_thread": ""
     },
     "toco": {
         "brand": "Xiaomi",
         "name": "Mi Note 10 Lite",
         "maintainer": "AndroidHQ254",
-        "telegram": "DennisMurimiWachira",
+        "telegram": "@DennisMurimiWachira",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-toco-official-revengeos-4-0.4214643/"
+    },
+    "ulova": {
+        "brand": "Xiaomi",
+        "name": "Redmi 4A / 5A / Note 5A / Y1",
+        "maintainer": "0xCAFEBABE",
+        "telegram": "@me_cafebabe",
+        "xda_thread": ""
     },
     "vayu": {
         "brand": "POCO",
         "name": "X3 Pro",
         "maintainer": "dawndegriffin",
-        "telegram": "dawndegriffin",
+        "telegram": "@dawndegriffin",
         "xda_thread": "https://forum.xda-developers.com/t/rom-official-revengeos-4-1-vayu-bhima.4342297/"
-    },
-     "walleye": {
-        "brand": "Google",
-        "name": "Pixel 2",
-        "maintainer": "RealOkabe",
-        "telegram": "RealOkabe",
-        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-taimen-walleye-revengeos-4-0-official.4276847/"
     },
     "whyred": {
         "brand": "Xiaomi",
         "name": "Redmi Note 5 Pro",
         "maintainer": "Reinazhard",
-        "telegram": "eve_enryu",
+        "telegram": "@eve_enryu",
         "xda_thread": ""
     },
     "ysl": {
         "brand": "Xiaomi",
         "name": "Redmi S2",
         "maintainer": "Giovanni Ricca",
-        "telegram": "GiovanniRN5",
+        "telegram": "@GiovanniRN5",
         "xda_thread": "https://forum.xda-developers.com/redmi-s2/development/rom-revengeos-4-0-redmi-s2-y2-ysl-t4181267"
     },
     "zippo": {
         "brand": "Lenovo",
         "name": "Z6 Pro",
         "maintainer": "Zhenxiang Chen",
-        "telegram": "pasta_con_tonno",
+        "telegram": "@pasta_con_tonno",
         "xda_thread": "https://forum.xda-developers.com/android/development/android-10-revengeos-3-1-lenovo-z6-pro-t4030703"
     },
 	"X01BD": {
         "brand": "Asus",
         "name": "Max Pro M2",
         "maintainer": "Puneet Gautam",
-        "telegram": "jartinup",
+        "telegram": "@jartinup",
         "xda_thread": "https://forum.xda-developers.com/t/unofficial-revenge-os-4-1r-vanilla-android-11-asus-max-pro-m2-x01bd.4324017/"
-    },
-    "pine": {
-        "brand": "Xiaomi",
-        "name": "Redmi 7A",
-        "maintainer": "0xCAFEBABE",
-        "telegram": "me_cafebabe",
-        "xda_thread": ""
-    },
-    "olives": {
-        "brand": "Xiaomi",
-        "name": "Redmi 8 Series",
-        "maintainer": "0xCAFEBABE, ChuckDXD",
-        "telegram": "me_cafebabe, ChuckDXD",
-        "xda_thread": ""
-    },
-    "landtoni": {
-        "brand": "Xiaomi",
-        "name": "Redmi 3S / 3X / 4X",
-        "maintainer": "0xCAFEBABE",
-        "telegram": "me_cafebabe",
-        "xda_thread": ""
-    },
-    "tiare": {
-        "brand": "Xiaomi",
-        "name": "Redmi Go",
-        "maintainer": "0xCAFEBABE",
-        "telegram": "me_cafebabe",
-        "xda_thread": ""
-    },
-    "ulova": {
-        "brand": "Xiaomi",
-        "name": "Redmi 4A / 5A / Note 5A / Y1",
-        "maintainer": "0xCAFEBABE",
-        "telegram": "me_cafebabe",
-        "xda_thread": ""
     }
 }

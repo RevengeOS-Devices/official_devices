@@ -3,13 +3,13 @@
     "donate_url": "https://paypal.me/lucchetto",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1632701701.524841,
-    "filename": "RevengeOS-4.1-R-OFFICIAL-olives-20210925-1625.zip",
+    "datetime": 1634850922.417966,
+    "filename": "RevengeOS-4.1-R-OFFICIAL-olives-20211021-1640.zip",
     "id": "",
-    "size": "847172967",
-    "url": "https://sourceforge.net/projects/revengeos/files/olives/RevengeOS-4.1-R-OFFICIAL-olives-20210925-1625.zip",
+    "size": "68",
+    "url": "https://sourceforge.net/projects/revengeos/files/olives/RevengeOS-4.1-R-OFFICIAL-olives-20211021-1640.zip",
     "download_new": "https://download.revengeos.com/download/olives",
-    "clean_flash": "yes",
+    "clean_flash": "no",
     "version": "4.1",
-    "filehash": "9efa3df651f8e68267c27ec6bd64eb35"
+    "filehash": "dce298cc868669723476ffa0da3125ef"
 }

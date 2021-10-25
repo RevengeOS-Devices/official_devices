@@ -1,2 +1,2 @@
-Initial official build
-October Security Patch
+Enabled blur
+Enabled pre-rendering feature

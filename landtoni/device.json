@@ -1,15 +1,12 @@
 {
-    "error": false,
     "donate_url": "https://paypal.me/lucchetto",
     "website_url": "https://revengeos.com/",
-    "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1634774513.4967754,
+    "datetime": 1635172489.7857804,
     "filename": "RevengeOS-4.1-R-OFFICIAL-landtoni-20211020-2123.zip",
-    "id": "",
-    "size": "75",
+    "size": "739968890",
     "url": "https://sourceforge.net/projects/revengeos/files/landtoni/RevengeOS-4.1-R-OFFICIAL-landtoni-20211020-2123.zip",
     "download_new": "https://download.revengeos.com/download/landtoni",
-    "clean_flash": "no",
+    "clean_flash": "yes",
     "version": "4.1",
     "filehash": "306a765ceba6700f11d057bb00e44fab"
 }

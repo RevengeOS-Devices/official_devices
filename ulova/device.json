@@ -1,15 +1,12 @@
 {
-    "error": false,
     "donate_url": "https://paypal.me/lucchetto",
     "website_url": "https://revengeos.com/",
-    "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1634784634.2806156,
+    "datetime": 1635172524.48212,
     "filename": "RevengeOS-4.1-R-OFFICIAL-ulova-20211020-2354.zip",
-    "id": "",
-    "size": "67",
+    "size": "740594649",
     "url": "https://sourceforge.net/projects/revengeos/files/ulova/RevengeOS-4.1-R-OFFICIAL-ulova-20211020-2354.zip",
     "download_new": "https://download.revengeos.com/download/ulova",
-    "clean_flash": "no",
+    "clean_flash": "yes",
     "version": "4.1",
     "filehash": "9f04d01c4283156412857212f6e31437"
 }

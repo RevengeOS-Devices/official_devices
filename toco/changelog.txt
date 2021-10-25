@@ -1,7 +1,5 @@
-Bump to September security patch
+Bump to October security patch
 Update required firmware level
-Ship VantomKernel 4.14.246
-Address some denial
-Update common vendor blobs from sweet V12.5.6.0.RKFMIXM
-Update toco vendor blobs from MIUI 12.5.2.0
-Build kernel with proton clang
+Ship VantomKernel 4.14.251
+Update common vendor blobs from sweet V12.5.8.0.RKFMIXM
+Update toco vendor blobs from MIUI 12.5.3.0.RFNMIXM

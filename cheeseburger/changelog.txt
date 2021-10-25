@@ -1,2 +1,0 @@
-Kernel upstream to 4.4.281
-Cleaned up device trees

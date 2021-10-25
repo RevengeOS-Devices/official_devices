@@ -41,26 +41,12 @@
         "telegram": "@Giovix92",
         "xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-revengeos-4-0-mi-9-cepheus-t4173859"
     },
-    "cheeseburger": {
-        "brand": "OnePlus",
-        "name": "5",
-        "maintainer": "Karthik N",
-        "telegram": "@zorock",
-        "xda_thread": "https://forum.xda-developers.com/oneplus-5/oneplus-5--5t-cross-device-development/rom-revenge-os-t4196305"
-    },
     "davinci": {
         "brand": "Xiaomi",
         "name": "Mi 9T (Redmi K20)",
         "maintainer": "vansh",
         "telegram": "@noobvansh",
         "xda_thread": ""
-    },
-    "dumpling": {
-        "brand": "OnePlus",
-        "name": "5T",
-        "maintainer": "Karthik N",
-        "telegram": "@zorock",
-        "xda_thread": "https://forum.xda-developers.com/oneplus-5/oneplus-5--5t-cross-device-development/rom-revenge-os-t4196305"
     },
     "daisy": {
         "brand": "Xiaomi",
